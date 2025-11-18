@@ -1,0 +1,19 @@
+# Entorno virtual
+.venv/
+env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos grandes de librerías compiladas
+*.dll
+*.so
+*.dylib
+
+# Otros
+.DS_Store
+*.log
